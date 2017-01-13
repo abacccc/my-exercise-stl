@@ -1,5 +1,5 @@
-#ifndef _MY_STL_VECTOR
-#define _MY_STL_VECTOR
+#ifndef _MY_STL_VECTOR_H
+#define _MY_STL_VECTOR_H
 
 #include"my_memory.h"
 #include"my_stl_uninitialized.h"
